@@ -1,9 +1,10 @@
 ## Hi there 👋  
 🔭 I’m currently a student majoring in Computer Science  
 
+<!--
 ![shantouly's GitHub stats](https://github-readme-stats.vercel.app/api?username=shantouly&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shantouly&layout=compact)](https://github.com/shantouly/github-readme-stats)
-
+-->
 <!--
 **shantouly/shantouly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
