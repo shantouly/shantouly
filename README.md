@@ -2,10 +2,6 @@
 🔭 I’m currently a student majoring in Computer Science  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shantouly&layout=compact)](https://github.com/shantouly/github-readme-stats)
 
-作者：王斐
-链接：https://zhuanlan.zhihu.com/p/452561674
-来源：知乎
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 <!--
 **shantouly/shantouly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
